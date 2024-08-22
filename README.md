@@ -1,3 +1,4 @@
+<h1>Hi!</h1>
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +18,11 @@
 <div> 
 <a href="https://www.linkedin.com/in/brenoloa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brenoloa&show_icons=true&theme=dark&locale=en" alt="brenoloa" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenoloa&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="brenoloa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenoloa&theme=dark" alt="brenoloa" /></p>
   
   
 </div>
