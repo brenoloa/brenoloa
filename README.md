@@ -1,13 +1,15 @@
-<h1>Hi!</h1>
+<h1>Hi, I'm a fullstack developer ;)!</h1>
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="80" width="60" src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="Rafa-Csharp" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="brenoloa" height="80" width="80" src="https://icongr.am/devicon/java-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/github/explore/c700f6f5bb68a850405eef411cf878162ff34b59/topics/angular/angular.png">
+   <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
   
-  <img align="center" alt="Rafa-HTML" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+  <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="center" alt="Rafa-Js" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   
   <img align="right" alt="" height="10" style="border-radius:50px;" src="">
