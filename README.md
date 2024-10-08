@@ -1,10 +1,10 @@
 <h1>Hi, I'm a fullstack developer ;)!</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="brenoloa" height="120" width="120" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="brenoloa" height="120" width="120" src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png">
-   <img align="center" alt="brenoloa" height="120" width="120" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
+  <img align="center" alt="brenoloa" height="120" width="120" src=https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-bleu.png">
+   <img align="center" alt="brenoloa" height="120" width="120" src="https://www.alura.com.br/assets/api/cursos/512/spring-boot-3-documente-teste-prepare-api-deploy.png">
   
-   <img align="center" alt="brenoloa" height="120" width="120" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+   <img align="center" alt="brenoloa" height="120" width="120" src="https://static-00.iconduck.com/assets.00/database-postgres-icon-1845x2048-smttmjhf.png">
   <img align="center" alt="brenoloa" height="120" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   
