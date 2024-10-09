@@ -2,7 +2,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="brenoloa" height="80" width="80" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256">
   <img align="center" alt="brenoloa" height="80" width="80" src=https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-bleu.png">
-   <img align="center" alt="brenoloa" height="80" width="80" src="https://www.alura.com.br/assets/api/cursos/512/spring-boot-3-documente-teste-prepare-api-deploy.png">
+   <img align="center" alt="brenoloa" height="80" width="80" src="https://www.alura.com.br/assets/api/cursos/512/spring-boot-aplique-boas-praticas-proteja-api-rest.png">
   
    <img align="center" alt="brenoloa" height="80" width="80" src="https://static-00.iconduck.com/assets.00/database-postgres-icon-1845x2048-smttmjhf.png">
   <img align="center" alt="brenoloa" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
