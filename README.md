@@ -14,7 +14,12 @@
 #
 
 <div> 
-<a href="https://www.linkedin.com/in/brenoloa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- 
+<a href="https://www.linkedin.com/in/brenoloa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+-->
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brenoloa&show_icons=true&theme=dark&locale=en" alt="brenoloa" /></p>
 
